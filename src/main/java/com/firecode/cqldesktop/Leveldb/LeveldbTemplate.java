@@ -1,4 +1,3 @@
-package com.firecode.cqldesktop.Leveldb;
 /**
  * MIT License
  * Copyright (c) 2018 jiangcihuo
@@ -21,6 +20,8 @@ package com.firecode.cqldesktop.Leveldb;
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+package com.firecode.cqldesktop.Leveldb;
+
 import java.util.function.Function;
 import org.iq80.leveldb.*;
 import com.google.common.base.Strings;

@@ -1,4 +1,3 @@
-package com.firecode.cqldesktop;
 /**
  * MIT License
  * Copyright (c) 2018 jiangcihuo
@@ -21,6 +20,7 @@ package com.firecode.cqldesktop;
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+package com.firecode.cqldesktop;
 /**
  * @author JIANG
  */

@@ -1,4 +1,3 @@
-package com.firecode.cqldesktop.utils;
 /**
  * MIT License
  * Copyright (c) 2018 jiangcihuo
@@ -21,6 +20,7 @@ package com.firecode.cqldesktop.utils;
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+package com.firecode.cqldesktop.utils;
 import java.awt.Image;
 import java.awt.Toolkit;
 import java.net.URL;
